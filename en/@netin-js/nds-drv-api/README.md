@@ -13,7 +13,7 @@
 
 The objective of **NetinDS DriverAPI** is to facilitate the development of "drivers" that allow the integration of new sources of information. Within the ecosystem **Netin Systems**, the drivers are responsible for the capture and publication of information (*datapoints* and *timepoints*) and events (*alarms*) from the field elements ([shop floor](https://en.wikipedia.org/wiki/Shop_floor)) and third-party systems to the kernel of the **NetinDS**.
 
-![NetinDS-Architecture](../.assets/netinds-architecture.png)
+![NetinDS-Architecture](../../../.assets/netinds-architecture.png)
 
 **NetinDS DriverAPI** Allows:
 
@@ -521,11 +521,11 @@ retryEnroll(WAIT_TIME, MAX_WAIT_TIME);
 
 ### API
 
-*   [Driver](./@netin%2Djs-%2D-Driver%2DAPI/Driver.md)
-*   [Publisher](./@netin%2Djs-%2D-Driver%2DAPI/Publisher.md)
-*   [Notifier](./@netin%2Djs-%2D-Driver%2DAPI/Notifier.md)
-*   [Addresses](./@netin%2Djs-%2D-Driver%2DAPI/Addresses.md)
-*   [Alarms](./@netin%2Djs-%2D-Driver%2DAPI/Alarms.md)
+*   [Driver](./API/Driver.md)
+*   [Publisher](./API/Publisher.md)
+*   [Notifier](./API/Notifier.md)
+*   [Addresses](./API/Addresses.md)
+*   [Alarms](./API/Alarms.md)
 
 ### Environment variables
 

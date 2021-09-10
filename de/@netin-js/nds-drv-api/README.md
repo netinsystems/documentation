@@ -13,7 +13,7 @@
 
 Das Ziel von **NetinDS DriverAPI** die Entwicklung von "Treibern" zu erleichtern, die die Integration neuer Informationsquellen ermöglichen. Innerhalb des Ökosystems **Netin-Systeme**die "Treiber" für die Erfassung und Veröffentlichung von Informationen verantwortlich sind (*die Daten* y *Die Termine*) und Veranstaltungen (*Alarmanlagen*) aus den Feldelementen ([Ladenboden](https://en.wikipedia.org/wiki/Shop_floor)) und dritte Systeme zum Kern der Agenten **Netinds**.
 
-![NetinDS-Architecture](../.assets/netinds-architecture.png)
+![NetinDS-Architecture](../../../.assets/netinds-architecture.png)
 
 **NetinDS DriverAPI** ermöglicht:
 
@@ -521,11 +521,11 @@ retryEnroll(WAIT_TIME, MAX_WAIT_TIME);
 
 ### API
 
-*   [Pilot](./@netin%2Djs-%2D-Driver%2DAPI/Driver.md)
-*   [Editor](./@netin%2Djs-%2D-Driver%2DAPI/Publisher.md)
-*   [Mitteilung](./@netin%2Djs-%2D-Driver%2DAPI/Notifier.md)
-*   [Anschriften](./@netin%2Djs-%2D-Driver%2DAPI/Addresses.md)
-*   [Alarmanlagen](./@netin%2Djs-%2D-Driver%2DAPI/Alarms.md)
+*   [Pilot](./API/Driver.md)
+*   [Editor](./API/Publisher.md)
+*   [Mitteilung](./API/Notifier.md)
+*   [Anschriften](./API/Addresses.md)
+*   [Alarmanlagen](./API/Alarms.md)
 
 ### Umweltvariablen
 

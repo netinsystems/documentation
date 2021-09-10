@@ -25,7 +25,7 @@ El objetivo
 
 ## Información
 
-Puede encontrar la información sobre **Driver API** en el la carpeta [docs](./docs/@netin%2Djs-%2D-Driver%2DAPI.md#información).
+Puede encontrar la información sobre **Driver API** en el la carpeta [docs](./docs/API.md#información).
 
 ## Colaboración
 
